@@ -37,7 +37,7 @@
     echo $val->new_case_excludeabroad;
     echo "</td>";
     
-    echo "<td bgcolor='#F5E1FD'>";
+    echo "<td bgcolor='#FDFDD3'>";
     echo $val->total_case_excludeabroad;
     echo "</td>";
     
