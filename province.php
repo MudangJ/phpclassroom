@@ -55,4 +55,5 @@
   echo "<center><b>วันที่อัปเดต</b></center>";
   echo $val->update_date;
   echo "</center>";
+
 ?>
