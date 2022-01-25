@@ -56,7 +56,7 @@
           <div class="col-md-8">
             <div class="card-body">
               <h5 class="card-title">จัดทำโดย</h5>
-              <p class="card-text">นายสาวกณิกนันต์ โวหารคล่อง</p>
+              <p class="card-text">นางสาวมุทิตา  อนันต์บุญเอื้อ</p>
               <p class="card-text"><small class="text-muted">ม.6/13 เลขที่ 12 , 55440</small></p>
             </div>
           </div>
